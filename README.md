@@ -21,6 +21,3 @@ The analysis provides valuable insights into ride patterns, showing clear prefer
 ## Libraries and Tools Used
 The project utilizes Python along with libraries such as Pandas for data manipulation, Matplotlib, and Seaborn for data visualization.
 
-## How to Run the Notebook
-To run this analysis, ensure you have Jupyter Notebook installed and the aforementioned libraries. Download the `.ipynb` file, open it in Jupyter, and run the cells sequentially to replicate the analysis.
-
